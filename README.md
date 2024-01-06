@@ -1,16 +1,45 @@
-### Hi there 👋
+# 👻 Lorenzo Arcidiacono 
 
-<!--
-**Lore-Arci/Lore-Arci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Insatiable learner 
 
-Here are some ideas to get you started:
+Hi 👋. I am a computer science student, currently in the fourth year of a technical college, who is looking forward to exploring and mastering new concepts in this field. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Languages and Framework
+
+<img align="left" alt="C#" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  
+<img align="left" alt="C#" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />          
+  
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+            
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />          
+  
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    
+<br />
+
+#
+
+### 📫 How to reach me
+<ul>
+    <li>
+        <a href="mailto:arcidiacono.lorenzo2@gmail.com"><strong>email</strong></a>
+    </li>
+</ul>
+
+# 
+
+### 🌱 I’m currently learning
+<ul>
+    <li>
+        <a href="#"><strong>SQL</strong><a>
+    </li>
+    <li>
+        <a href="https://developer.apple.com/swift/"><strong>Swift<strong><a>
+    </li>
+    <li>
+        <a href="https://developer.apple.com/xcode/swiftui/"><strong>SwiftUI<strong><a>
+    </li>
+</ul>
