@@ -1,6 +1,6 @@
 # 👻 Lorenzo Arcidiacono 
 
-🔭 Insatiable learner 
+`🔭 insatiable_learner`
 
 Hi 👋. I am a computer science student, currently in the fourth year of a technical college, who is looking forward to exploring and mastering new concepts in this field. 
 
