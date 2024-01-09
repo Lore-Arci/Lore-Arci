@@ -1,4 +1,4 @@
-# 👻 Lorenzo Arcidiacono 
+# 👨‍💻 Lorenzo Arcidiacono 
 
 `🔭 insatiable_learner`
 
